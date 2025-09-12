@@ -1,0 +1,70 @@
+Chapter 1: Intoduction to Java
+=======================
+
+01. What is Java ?
+    Java is a platform independent OOPL.
+
+    * Java is a OOPL
+    * Java is Platform Independent
+
+02. Why Java ?
+
+	* Acheiving Platform Independendency
+	* For developing internet based application
+
+03. Who invented Java ?
+
+	* James Gosling
+	* Sun Microsystems
+	* Was invented 1991
+	* Was released to market 1995
+
+---
+
+04. Types of Applications ?
+    1. Stand Alone (SA) - Installed in One computer and only accessible from same amchine and not other comuter.
+   		eg: Office , Antivirus 
+    
+    2. Internet Application (IA) - Can be accessed over internet from other application
+        eg: Amazon, Internet banking - HDFC , FLipkart, Facebook
+
+	* Java can be used to devlop both SA and IA application.
+	
+04. Stand alone and Internet Applications
+
+05. Platform, Platform dependency platform independency
+
+06. Why C and C++ Programming languages are Platforfm Dependent ?
+
+07. How Java acheived PI?
+
+08. Important facts on Java Program and Java Software ?
+
+09. Types of Java Softwares (JDK and JRE) ?
+
+10. Differnece between JDK, JRE , JVM , JIT ?
+
+11. Why public JRE is removed in java 11 version ?
+
+12. Downloading and Installing JDK ?
+
+13. Software required to develop a java program.
+
+14. Java programming elemnets ?
+
+15. Essential statements for developing a java program ?
+
+16. steps to develop a java program ?
+
+
+17. Program #1: Hello WOrld Program development.
+18. COmpilation and Execution procedures.
+19. Compiler and JVM Activities
+20. Basic JVM Architecture
+21. Solving errors by ourselves.
+
+
+22. More Examples
+23. Java Print statements, difference between print() and println()
+24. diff bw print() and printf()
+25. printf() method format specififers 
