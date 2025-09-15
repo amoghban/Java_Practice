@@ -22,8 +22,9 @@ Chapter 1: Intoduction to Java
 ---
 
 04. Types of Applications ?
+
     1. Stand Alone (SA) - Installed in One computer and only accessible from same amchine and not other comuter.
-   		eg: Office , Antivirus 
+   		eg: Office , Antivirus , vlc
     
     2. Internet Application (IA) - Can be accessed over internet from other application
         eg: Amazon, Internet banking - HDFC , FLipkart, Facebook
@@ -31,6 +32,15 @@ Chapter 1: Intoduction to Java
 	* Java can be used to devlop both SA and IA application.
 	
 04. Stand alone and Internet Applications
+
+SA - Application which is installed on a computer and cannot be accessed over internet
+	 Single user single access
+	 intalltion / download is required 
+	 
+IA - Application which is installed on a computer and can be accessed over internet or withing same computer as well
+       can access over browser
+
+
 
 05. Platform, Platform dependency platform independency
 
