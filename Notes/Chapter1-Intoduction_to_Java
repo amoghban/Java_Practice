@@ -1,6 +1,12 @@
 Chapter 1: Intoduction to Java
 =======================
 
+
+A Programming lanaguage is a medium between human and comuter
+
+Structured Programming language 
+Object Oriented  programing jangauage
+
 01. What is Java ?
     Java is a platform independent OOPL.
 
@@ -24,7 +30,7 @@ Chapter 1: Intoduction to Java
 04. Types of Applications ?
 
     1. Stand Alone (SA) - Installed in One computer and only accessible from same amchine and not other comuter.
-   		eg: Office , Antivirus , vlc
+   		eg: Office , Anti virus , vlc
     
     2. Internet Application (IA) - Can be accessed over internet from other application
         eg: Amazon, Internet banking - HDFC , FLipkart, Facebook
@@ -35,14 +41,24 @@ Chapter 1: Intoduction to Java
 
 SA - Application which is installed on a computer and cannot be accessed over internet
 	 Single user single access
-	 intalltion / download is required 
+	 installation / download is required 
 	 
 IA - Application which is installed on a computer and can be accessed over internet or withing same computer as well
        can access over browser
 
 
-
+16-Sep-2025
+===========
 05. Platform, Platform dependency platform independency
+
+    Platform is an environemtn (software or hardware) in which  a program is loaded and executd
+    C or C++ is directly run on a OS (Paltform dependent)
+    java is run on a JVM , JVM is responsible to convvert code to OS like windows,linux or mac
+    
+    Develop once and executr in any platform
+    
+    
+    platform dependency:  a programmed compiled in one OS and cannot run on anohter 
 
 06. Why C and C++ Programming languages are Platforfm Dependent ?
 
