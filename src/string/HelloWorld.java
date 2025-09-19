@@ -8,10 +8,10 @@ package string;
  */
 public class HelloWorld {
 
-	/**
-	 * Parameter argument
-	 * @param args 
-	 */
+/**
+ * 
+ * @param args
+ */
 	public static void main(String args[]) {
 		System.out.println("Hello World");
 

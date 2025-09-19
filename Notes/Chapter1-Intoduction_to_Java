@@ -59,8 +59,13 @@ IA - Application which is installed on a computer and can be accessed over inter
     
     
     platform dependency:  a programmed compiled in one OS and cannot run on anohter 
+    
+17-Sep-2024
+===========
 
-06. Why C and C++ Programming languages are Platforfm Dependent ?
+06. Why C and C++ Programming languages are Platform Dependent ?
+
+
 
 07. How Java acheived PI?
 
